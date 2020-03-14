@@ -1,0 +1,3 @@
+continue
+file2 
+three lines
